@@ -14,12 +14,6 @@ An intelligent Next-Word Prediction Model built using LSTM (Long Short-Term Memo
 
 🧩 Modular code structure for easy customization and deployment.
 
-🚀 Live Demo
-
-👉 Try it here: Next Word Predictor – Streamlit App
-
-(Replace with your actual Streamlit link)
-
 🛠️ Tech Stack
 
 Programming Language: Python
